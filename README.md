@@ -9,7 +9,7 @@
 
 --------------------------------------------------------------------------------------------
 
-# My first code writen in Java for learning reasons, where I reinforced my knowledge about:
+## My first code writen in Java for learning reasons, where I reinforced my knowledge about:
 + Classes,
 + Atributtes,
 + Constructors,
