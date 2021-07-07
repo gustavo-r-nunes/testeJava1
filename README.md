@@ -1,4 +1,4 @@
-# testeJava1
+# Java project 1
 
 
 Meu primeiro código escrito em Java para aprendizado, onde reforcei os conhecimentos sobre:
