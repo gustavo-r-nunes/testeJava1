@@ -5,7 +5,7 @@
 + atributos, 
 + construtores, 
 + heranças
-## e aprendizado sobre a sintaxe do Java.
+### e aprendizado sobre a sintaxe do Java.
 
 --------------------------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@
 + Atributtes,
 + Constructors,
 + Inherits,
-## and general learning about Java syntax.
+### and general learning about Java syntax.
