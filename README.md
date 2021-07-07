@@ -13,8 +13,8 @@ O código foi feito a partir do exercicio final apresentado pelo professor e con
 + classe de funcionario "Supervisor
 + classe funcionario "Atendente"
 
-Onde durante a execução do programa, é dado um salario e um imposto correspondente ao cargo<br />
-E o programa apresenta o salário, imposto a ser descontado e salario final.
+Onde durante a execução do programa, é dado um salario e um imposto correspondente ao cargo.<br />
+O programa apresenta o salário, imposto a ser descontado e salario final.
 
 
 
@@ -33,5 +33,5 @@ This code was made after an exercise presented by the teacher, and contains:
 + Class "Supervisor"
 + Class "Atendente"
 
-Where during program execution, is given a salary and a corresponding tax due each class<br />
+Where during program execution, is given a salary and a corresponding tax due each class (job)<br />
 And the program presents the salary, corresponding value to debit from taxes and final salary.
