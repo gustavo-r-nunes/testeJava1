@@ -20,7 +20,7 @@ O programa apresenta o salário, imposto a ser descontado e salario final.
 
 --------------------------------------------------------------------------------------------
 
-### My first code writen in Java for learning reasons, where I reinforced my knowledge about:
+### My first code written in Java for learning reasons, where I reinforced my knowledge about:
 + Classes,
 + Atributtes,
 + Constructors,
